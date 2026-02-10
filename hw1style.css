@@ -1,0 +1,47 @@
+/* Structure/Layouts */
+body {
+margin: 0 10%;
+font-family: sans-serif;
+}
+h1 {
+text-align: center;
+font-family: serif;
+font-weight: normal;
+font-size: 40px;
+text-transform: uppercase;
+margin-top: 30px;
+}
+h2 {
+text-align: center;
+font-size: 20px;
+}
+
+/* Colors */
+body { 
+  color: white;
+  background-color: black;
+  font-size: 100%;
+  font-family: Helvetica, Futura, sans-serif;
+}
+
+.button {
+background-color: red;
+text-align: center;
+font-size: 20px;
+margin: 4px 2px;
+padding: 15px 32px;
+}
+
+/* Image adjustments*/
+img { 
+float:left;   margin-right:10px;
+ }
+
+.border {
+border: 10px solid green;
+}
+
+/* Adjust paragraphs */
+.clearfloat { 
+clear:both; 
+}
