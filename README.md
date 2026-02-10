@@ -1,2 +1,2 @@
-# bpj00-hw1a.github.io
+# hw1a.github.io
 nope
